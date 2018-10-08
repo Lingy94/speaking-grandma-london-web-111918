@@ -19,3 +19,4 @@ def speak_to_gradnma(phrase)
   else
     return "HUH?! SPEAK UP, SONNY!"
   end
+end
